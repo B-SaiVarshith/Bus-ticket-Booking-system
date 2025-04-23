@@ -3,6 +3,7 @@ This project allows users to select the bus and the seat they want to sit in and
 It also has an Anmin panel which can only be accessed by the admin and he is able to add new busses
 
 User can : 
+
 -> Sign Up: They can create an account
 
 ->Search busses: They can choose busses by choosing the depart locations and destinations
