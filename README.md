@@ -12,6 +12,7 @@ User can :
 ->Select seat: They can select the seat they want to and book it
 
 Admin can : 
+
 ->Admin Login : Login into the admin account which is secure
 
 ->Add Bus : Add a new bus with its timings type and its route
